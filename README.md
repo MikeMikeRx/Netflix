@@ -8,6 +8,3 @@ FAQ — Frequently Asked Questions <br>
 
 movie-switch — Sorting movies by genre <br>
 
-movie-slider — Navigate through movies using left and right arrow buttons <br>
-
-movie-slider-upgrade — Added automatic navigation with interval
